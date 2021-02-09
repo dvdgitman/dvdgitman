@@ -2,7 +2,7 @@
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!😄  
 <p align="center">I'm David, a DevOPS Enthusiast 
 
-<p align="center"> <p style="font-size:20%;">
+<p align="center">
 I'm currently studying and doing some my own projects.
 I work independently and in a team,
 in-depth technical knowledge, and understanding, fast learning curve. Have high abilities in identifying
