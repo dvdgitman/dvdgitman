@@ -4,17 +4,20 @@
 <a href="https://github.com/dvdgitman"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="mailto:dgitman94@gmail.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 
-<h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm David! 😄  
- 
- <h2 align="center"><a href='https://postimg.cc/7JGZvFjw' target='_blank'><img src='https://i.postimg.cc/7JGZvFjw/117933309-3495742157111030-5086089092777647002-o-removebg-preview.png' border='0' alt='117933309-3495742157111030-5086089092777647002-o-removebg-preview'/></a>
-<h2 align="center"> I'm a DevOPS Enthusiast
+<h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm David! I'm a DevOPS Enthusiast 😄  
+<h2 align="center"><a href='https://postimg.cc/7JGZvFjw' target='_blank'><img src='https://i.postimg.cc/7JGZvFjw/117933309-3495742157111030-5086089092777647002-o-removebg-preview.png' border='0' alt='117933309-3495742157111030-5086089092777647002-o-removebg-preview'/></a>
 
-<p align="center"> I'm currently studying and doing some my own projects.
+
+<p align="center"> 
+ I'm currently studying and doing some my own projects.
 I work independently and in a team,
 in-depth technical knowledge, and understanding, fast learning curve. Have high abilities in identifying
 and solving problems quickly, high motivation, ability, and experience working under pressure. Specialize
 in computer repair and deal with day to day HW/SW issues.     
 currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
+ 
+<hr>
+
 
 
 <hr>
