@@ -1,4 +1,6 @@
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm David! 😄
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm David! 😄 
+
+I'm a DevOPS Enthusiast 
 
 <!--
 **dvdgitman/dvdgitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
+https://github.com/dvdgitman/dvdgitman/issues/new
