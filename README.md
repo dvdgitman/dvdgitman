@@ -20,7 +20,7 @@ currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automati
 </p>
  
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdgitman" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdgitman&theme=dark&layout=compact" />
 
 
 
