@@ -6,8 +6,8 @@
 
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm David! 😄  
 <h2 align="center"> I'm a DevOPS Enthusiast
-<p align="center">
-I'm currently studying CI/CD in a college and doing some my own projects.
+
+<p align="center"> I'm currently studying and doing some my own projects.
 I Work independently and in a team,
 in-depth technical knowledge, and understanding, fast learning curve. Have high abilities in identifying
 and solving problems quickly, high motivation, ability, and experience working under pressure. Specialize
