@@ -9,13 +9,13 @@
 <p align="center"><a href='https://postimg.cc/7JGZvFjw' target='_blank'><img src='https://i.postimg.cc/7JGZvFjw/117933309-3495742157111030-5086089092777647002-o-removebg-preview.png' border='0' alt='117933309-3495742157111030-5086089092777647002-o-removebg-preview'/></a>
 
 
-<p align="center"> 
- I'm currently studying and doing some my own projects.
+<p align="center"> <p style="font-size:20%;">
+I'm currently studying and doing some my own projects.
 I work independently and in a team,
 in-depth technical knowledge, and understanding, fast learning curve. Have high abilities in identifying
 and solving problems quickly, high motivation, ability, and experience working under pressure. Specialize
 in computer repair and deal with day to day HW/SW issues.     
-currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
+currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.</p>
  
 <hr>
 
