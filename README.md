@@ -10,14 +10,14 @@
 
 
 <hr>
-<p align="center">
+<p align="center"><font size=1>
 I'm currently studying and doing some my own projects.
 I work independently and in a team,
 in-depth technical knowledge, and understanding, fast learning curve. Have high abilities in identifying
 and solving problems quickly, high motivation, ability, and experience working under pressure. Specialize
 in computer repair and deal with day to day HW/SW issues.     
 currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
-</p>
+</p></font>
  
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdgitman&theme=dark&layout=compact" />
