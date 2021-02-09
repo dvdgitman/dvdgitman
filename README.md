@@ -8,7 +8,7 @@
 <h2 align="center"> I'm a DevOPS Enthusiast
 
 <p align="center"> I'm currently studying and doing some my own projects.
-I Work independently and in a team,
+I work independently and in a team,
 in-depth technical knowledge, and understanding, fast learning curve. Have high abilities in identifying
 and solving problems quickly, high motivation, ability, and experience working under pressure. Specialize
 in computer repair and deal with day to day HW/SW issues.     
