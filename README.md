@@ -1,7 +1,7 @@
 <p align="center"><a href='https://postimg.cc/7JGZvFjw' target='_blank'><img src='https://i.postimg.cc/7JGZvFjw/117933309-3495742157111030-5086089092777647002-o-removebg-preview.png' border='0' alt='117933309-3495742157111030-5086089092777647002-o-removebg-preview'/></a>
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center">I'm David, a DevOPS Enthusiast 😄 
-
+<hr>
 <p align="center">
 I'm currently studying and doing some my own projects.
 I work independently and in a team,
