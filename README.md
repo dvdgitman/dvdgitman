@@ -1,6 +1,6 @@
 <p align="center"><a href='https://postimg.cc/7JGZvFjw' target='_blank'><img src='https://i.postimg.cc/7JGZvFjw/117933309-3495742157111030-5086089092777647002-o-removebg-preview.png' border='0' alt='117933309-3495742157111030-5086089092777647002-o-removebg-preview'/></a>
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="center">I'm David, a DevOPS Enthusiast 😄 
+<h5 align="center">I'm David, a DevOPS Enthusiast 😄 
 <p align="center">
 <a href="https://facebook.com/dvdgitman"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/davidgman/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
@@ -10,14 +10,14 @@
 
 
 <hr>
-<p align="center"><font size=1>
+<h5 align="center"><font size=1>
 I'm currently studying and doing some my own projects.
 I work independently and in a team,
 in-depth technical knowledge, and understanding, fast learning curve. Have high abilities in identifying
 and solving problems quickly, high motivation, ability, and experience working under pressure. Specialize
 in computer repair and deal with day to day HW/SW issues.     
 currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
-</p></font>
+</h5></font>
  
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdgitman&theme=dark&layout=compact" />
