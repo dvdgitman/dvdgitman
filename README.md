@@ -1,4 +1,4 @@
-### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 😄
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm David! 😄
 
 <!--
 **dvdgitman/dvdgitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
