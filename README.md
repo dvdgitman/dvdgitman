@@ -14,10 +14,10 @@
 <h5 align="center"><font size=1>
 I'm currently studying and doing some my own projects.
 I work independently and in a team,
-in-depth technical knowledge, and understanding, fast learning curve. Have high abilities in identifying
-and solving problems quickly, high motivation, ability, and experience working under pressure. Specialize
-in computer repair and deal with day to day HW/SW issues.     
-currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
+Have in-depth technical knowledge, and understanding, fast learning curve.   
+Have high abilities in identifying and solving problems quickly, high motivation, ability, and experience working under pressure. 
+Specialize in computer repair and deal with day to day HW/SW issues.       
+Currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
 </h5></font>
  
 
