@@ -29,9 +29,11 @@ Currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automati
 
 <h3 align="center">What I'm currently working on:</h3>
 <p align="center">
-<a href="https://github.com/dvdgitman/ec2-ansible">Ansible playbook to deploy EC2 instance</a><br>
 <a href="https://github.com/dvdgitman/terraform-aws">Terraform script that will create a WORDPRESS instance that uses MySQL DB</a><br>
+<a href="https://github.com/dvdgitman/ec2-ansible">Ansible playbook to deploy EC2 instance</a><br>
+<a href="https://github.com/dvdgitman/aws-flask">Docker Image for a flask app</a><br>
 <a href="https://github.com/dvdgitman/ip-geolocation-locator">Python script that grabs geolocation from a free API.</a><br>
+ 
 
 </p>
 
