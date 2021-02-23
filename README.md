@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/davidgman/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://github.com/dvdgitman"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="mailto:dgitman94@gmail.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
- <a href="https://twitter.com/idavidgman"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"</a>&nbsp;&nbsp;
+<a href="https://twitter.com/idavidgman"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"</a>&nbsp;&nbsp;
 
 
 
