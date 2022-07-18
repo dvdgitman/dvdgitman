@@ -22,6 +22,14 @@ Currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automati
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdgitman&theme=dark&layout=compact" />
 
+<!--START_SECTION:activity-->
+
+
+
+
+
+
+
 
 <!--
 **dvdgitman/dvdgitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
