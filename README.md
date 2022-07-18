@@ -4,12 +4,6 @@
 <h3 align="center"><a href="https://www.linkedin.com/in/davidgman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/static/v1?label=DevOPS&message=Enthusiast&color=red" />
 
-------------
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
