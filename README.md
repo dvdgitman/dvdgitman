@@ -1,19 +1,9 @@
-<p align="center"><a href='https://postimg.cc/7JGZvFjw' target='_blank'><img src='https://i.postimg.cc/7JGZvFjw/117933309-3495742157111030-5086089092777647002-o-removebg-preview.png' border='0' alt='117933309-3495742157111030-5086089092777647002-o-removebg-preview'/></a>
- 
+
 <h3 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h5 align="center">I'm David, a DevOPS Enthusiast 😄 
-<h2 align="center">
-<a href="https://facebook.com/dvdgitman"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/davidgman/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/dvdgitman"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:dgitman94@gmail.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/idavidgman"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"</a>&nbsp;&nbsp;
+<h5 align="center">I'm David 😄 
+<h3 align="center"><a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/static/v1?label=DevOPS&message=Enthusiast&color=red" />
 
-
-
-
-
-<hr>
 <h5 align="center"><font size=1>
 I'm currently studying and doing projects.
 I work independently and in a team,     
@@ -22,40 +12,15 @@ Specialize in computer repair and deal with day to day HW/SW issues.
 Currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
 </h5></font>
  
+<h5 ></h5></font>
+
+
+
+<h3 align="center">Skill Sets:</h3>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdgitman&theme=dark&layout=compact" />
-
-
-
-<hr>
-
-<h3 align="center">What I'm currently working on:</h3>
-<p align="center">
-<a href="https://github.com/dvdgitman/terraform-aws">Terraform script that will create a WORDPRESS instance that uses MySQL DB</a><br>
-<a href="https://github.com/dvdgitman/ec2-ansible">Ansible playbook to deploy EC2 instance</a><br>
-<a href="https://github.com/dvdgitman/aws-flask">Docker Image for a flask app</a><br>
-<a href="https://github.com/dvdgitman/ip-geolocation-locator">Python script that grabs geolocation from a free API.</a><br>
- 
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
