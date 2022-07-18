@@ -21,23 +21,7 @@
 
 ---
 
-### :fire: My Most Used Languages :
-
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdgitman&theme=dark&layout=compact" />
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#74](https://github.com/Unleash/unleash-docker/issues/74) in [Unleash/unleash-docker](https://github.com/Unleash/unleash-docker)
-2. 🗣 Commented on [#2](https://github.com/EventHoryzen/test-flask-ip/issues/2) in [EventHoryzen/test-flask-ip](https://github.com/EventHoryzen/test-flask-ip)
-3. 🗣 Commented on [#1](https://github.com/EventHoryzen/test-flask-ip/issues/1) in [EventHoryzen/test-flask-ip](https://github.com/EventHoryzen/test-flask-ip)
-4. ❗️ Opened issue [#27200](https://github.com/openshift/origin/issues/27200) in [openshift/origin](https://github.com/openshift/origin)
-<!--END_SECTION:activity-->
-
-
-
-
-
-
-
 
 <!--
 **dvdgitman/dvdgitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
