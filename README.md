@@ -11,8 +11,9 @@
  I'm a DevOPS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Israel.
  - :telescope: I’m currently learning and doing projects.
  - :zap: I Specialize in computer repair and deal with day to day HW/SW issues.
- - :seedling: I have high abilities in identifying and solving problems quickly, high motivation, ability, and experience working under pressure. 
- Currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
+ - :seedling:  I excel at quickly identifying and solving problems,
+thrive in high-pressure situations, and have a strong motivation to succeed.
+My current focus is on Docker, Jenkins, Ansible, Terraform, AWS, and Automation, which I am deeply passionate about.
 
 ### :hammer_and_wrench: Languages and Tools :
 
