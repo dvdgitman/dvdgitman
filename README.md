@@ -2,7 +2,7 @@
 <h3 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h5 align="center">I'm David 😄 
 <h3 align="center"><a href="https://www.linkedin.com/in/davidgman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/static/v1?label=DevOPS&message=Enthusiast&color=red" />
+<img src="https://img.shields.io/static/v1?label=DevOPS&message=Engineer&color=red" />
 
 ---
 
